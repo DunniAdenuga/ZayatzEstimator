@@ -1,2 +1,2 @@
 # ZayatzEstimator
-This estimates the re-identified risk a de-identified table.
+This estimates the re-identification risk a de-identified table.
